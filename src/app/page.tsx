@@ -604,6 +604,12 @@ const Home: React.FC = () => {
           </div>
         )
       )}
+
+      {/* Author and GitHub link at bottom right */}
+      <div style={{ position: 'fixed', right: 16, bottom: 16, zIndex: 50 }} className="bg-white/80 rounded-lg shadow px-4 py-2 text-xs text-gray-700 border border-gray-300">
+        by 陳英全 明新科技大學<br />
+        <a href="https://github.com/NoNum3/davinci-code-game" target="_blank" rel="noopener noreferrer" className="underline text-blue-600">GitHub: NoNum3/davinci-code-game</a>
+      </div>
     </div>
   );
 };
