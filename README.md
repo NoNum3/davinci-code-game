@@ -1,3 +1,6 @@
+by 陳英全 明新科技大學  
+GitHub: https://github.com/NoNum3/davinci-code-game
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
